@@ -20,6 +20,7 @@
 </a>
 </br>
 
+
 - 🔭 I have a Computer Science bachelor’s degree and I have been working as IT Infrastructure Analyst for almost 5 years as well as a Web Developer enthusiast.
 - 🌱 Now I am learning Data Science and trying to change my career. 
 - 👯 I’m looking to collaborate on Machine Learning projects.
