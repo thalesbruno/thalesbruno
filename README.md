@@ -6,6 +6,9 @@
 <a href="https://www.kaggle.com/thalesbruno">
   <img align="left" alt="Thales' Kaggle" width="22px" src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" />
 </a>
+<a href="https://dev.to/thalesbruno">
+  <img align="left" alt="Thales' Dev.to" width="22px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
+</a>
 <a href="https://t.me/thalesbruno">
   <img align="left" alt="Thales' Telegram" width="22px" src="https://4.bp.blogspot.com/-IUDvPAuE9Rg/XE9Muo_8D-I/AAAAAAAAHdE/vDGQsIXh4GM8qdInx9AHPq984Q9P4BEQgCK4BGAYYCw/s1600/Icon-Telegram.png" />
 </a>
