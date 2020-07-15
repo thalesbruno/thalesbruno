@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm [Thales Bruno](https://thalesbr.uno) from Salvador, Brazil 🇧🇷
 
-</br>
 <a href="https://twitter.com/thlsbrn">
   <img align="left" alt="Thales' Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/1200px-Twitter_logo_2012.svg.png" />
 </a>
@@ -17,6 +16,8 @@
   <img align="left" alt="Thales' Reddit" width="22px" src="https://2.bp.blogspot.com/-r3brlD_9eHg/XDz5bERnBMI/AAAAAAAAG2Y/XfivK0eVkiQej2t-xfmlNL6MlSQZkvcEACK4BGAYYCw/s1600/logo%2Breddit.png" />
 </a>
 </br>
+
+## About me
 
 - 🔭 I have a Computer Science bachelor’s degree and I have been working as IT Infrastructure Analyst for almost 5 years as well as a Web Developer enthusiast.
 - 🌱 Now I am learning Data Science and trying to change my career. 
