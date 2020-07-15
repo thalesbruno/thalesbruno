@@ -1,8 +1,12 @@
 ### Hi there 👋, I'm [Thales Bruno](https://thalesbr.uno) from Salvador, Brazil 🇧🇷
 
-<!--<a href="https://thalesbr.uno">
-  <img align="left" alt="Thales' Homepage" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" />
-</a>-->
+- 🔭 I have a Computer Science bachelor’s degree and I have been working as IT Infrastructure Analyst for almost 5 years as well as a Web Developer enthusiast.
+- 🌱 Now I am learning Data Science and trying to change my career. 
+- 👯 I’m looking to collaborate on Machine Learning projects.
+- 📫 How to reach me: [thalesbrunom@gmail.com](mailto:thalesbrunom+github@gmail.com)
+- 😄 Pronouns: He/Him
+
+</br>
 <a href="https://twitter.com/thlsbrn">
   <img align="left" alt="Thales' Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/1200px-Twitter_logo_2012.svg.png" />
 </a>
@@ -19,13 +23,6 @@
   <img align="left" alt="Thales' Reddit" width="22px" src="https://2.bp.blogspot.com/-r3brlD_9eHg/XDz5bERnBMI/AAAAAAAAG2Y/XfivK0eVkiQej2t-xfmlNL6MlSQZkvcEACK4BGAYYCw/s1600/logo%2Breddit.png" />
 </a>
 </br>
-
-
-- 🔭 I have a Computer Science bachelor’s degree and I have been working as IT Infrastructure Analyst for almost 5 years as well as a Web Developer enthusiast.
-- 🌱 Now I am learning Data Science and trying to change my career. 
-- 👯 I’m looking to collaborate on Machine Learning projects.
-- 📫 How to reach me: [thalesbrunom@gmail.com](mailto:thalesbrunom+github@gmail.com)
-- 😄 Pronouns: He/Him
 
 ![Thales's github stats](https://github-readme-stats.vercel.app/api?username=thalesbruno&show_icons=true&hide_border=true)
 
