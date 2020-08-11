@@ -3,9 +3,6 @@
 <a href="https://twitter.com/thlsbrn">
   <img align="left" alt="Thales' Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/1200px-Twitter_logo_2012.svg.png" />
 </a>
-<a href="https://www.kaggle.com/thalesbruno">
-  <img align="left" alt="Thales' Kaggle" width="22px" src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" />
-</a>
 <a href="https://dev.to/thalesbruno">
   <img align="left" alt="Thales' Dev.to" width="22px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
 </a>
@@ -23,8 +20,8 @@
 ## About me
 
 - 🔭 I have a Computer Science bachelor’s degree and I have been working as IT Infrastructure Analyst for almost 5 years as well as a Web Developer enthusiast.
-- 🌱 Now I am learning Data Science and trying to change my career. 
-- 👯 I’m looking to collaborate on Machine Learning projects.
+- 🌱 Now I am focusing in improve my Web Developer skills Data Science to change my career. 
+- 👯 I’m looking to collaborate on Open Source projects based mainly in Python.
 - 📫 How to reach me: [thalesbrunom@gmail.com](mailto:thalesbrunom+github@gmail.com)
 - 😄 Pronouns: He/Him
 
