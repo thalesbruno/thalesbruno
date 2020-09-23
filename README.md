@@ -20,7 +20,7 @@
 ## About me
 
 - 🔭 I have a bachelor’s degree in Computer Science and I have been working as IT Infrastructure Analyst for almost 5 years as well as a Web Developer enthusiast.
-- 🌱 Now I am focusing in improve my Web Developer skills Data Science to change my career. 
+- 🌱 Now I am focusing in improve my Web Developer and  Data Science skills to change my career. 
 - 👯 I’m looking to collaborate on Open Source projects based mainly in Python.
 - 📫 How to reach me: [thalesbrunom@gmail.com](mailto:thalesbrunom+github@gmail.com)
 - 😄 Pronouns: He/Him
