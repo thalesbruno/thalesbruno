@@ -19,9 +19,10 @@
 
 ## About me
 
-- 🔭 I have a bachelor’s degree in Computer Science and I have been working as IT Infrastructure Analyst for almost 5 years as well as a Web Developer enthusiast.
-- 🌱 Now I am focusing in improve my Web Developer and  Data Science skills to change my career. 
-- 👯 I’m looking to collaborate on Open Source projects based mainly in Python.
+- 🔭 I have a Bachelor’s Degree in Computer Science and I am doing the Master's Degree graduate in Data Science research area.
+- 💻 I have been working as IT Infrastructure Analyst for 5 years now, as well as a freelance Web Developer.
+- 🌱 I'm currently learning Natural Language Processing (NLP). 
+- 👯 I’m looking to collaborate on Data Science projects, mainly the NLP ones.
 - 📫 How to reach me: [thalesbrunom@gmail.com](mailto:thalesbrunom+github@gmail.com)
 - 😄 Pronouns: He/Him
 
