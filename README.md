@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm [Thales Bruno](https://thalesbruno.github.io) from Salvador, Brazil 🇧🇷
 
-<a href="https://twitter.com/thlsbrn">
+<!--<a href="https://twitter.com/thlsbrn">
   <img align="left" alt="Thales' Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/1200px-Twitter_logo_2012.svg.png" />
-</a>
+</a>-->
 <a href="https://dev.to/thalesbruno">
   <img align="left" alt="Thales' Dev.to" width="22px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
 </a>
