@@ -20,9 +20,9 @@
 ## About me
 
 - 🔭 I have a Bachelor’s Degree in Computer Science and I am doing a Master's Degree in Data Science, focused in the Natural Language Processing research area.
-- 💻 I have been working as IT Infrastructure Analyst for 5 years now, as well as a freelance Web Developer.
+- 💻 I have worked as IT Infrastructure Analyst for almost 5 years, as well I am a freelance Full Stack Developer and now I am working with Machine Learning development.
 - 🌱 I'm currently learning Natural Language Processing (NLP). 
-- 👯 I’m looking to collaborate on Data Science projects, mainly the NLP ones.
+- 👯 I’m looking to collaborate on Data Science projects, mainly in the NLP area.
 - 📫 How to reach me: [thalesbrunom@gmail.com](mailto:thalesbrunom+github@gmail.com)
 - 😄 Pronouns: He/Him
 
