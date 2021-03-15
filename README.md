@@ -17,11 +17,6 @@
 </a>
 </br>-->
 
-## About me
-
-- 📫 How to reach me: [thalesbrunom@gmail.com](mailto:thalesbrunom+github@gmail.com)
-- 😄 Pronouns: He/Him
-
 ![Thales's github stats](https://github-readme-stats.vercel.app/api?username=thalesbruno&show_icons=true&hide_border=true)
 
 
