@@ -18,7 +18,27 @@
 </a>
 </br>-->
 
-![Thales's github stats](https://github-readme-stats.vercel.app/api?username=thalesbruno&show_icons=true&hide_border=true)
+
+
+---
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesbruno&hide=html&layout=compact&show_icons=true&theme=gruvbox" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=thalesbruno&show_icons=true&theme=gruvbox" /></td>
+    </tr>   
+  </table>
+</center>  
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thalesbruno" alt="thalesbruni" /> </p>
+
+<h2 align='left'>#Github Points: :octocat:🏆️</h2>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=thalesbruno&theme=onedark&margin-w=7&hide_border=true" alt="thalesbruno points"/>
+</p>
 
 
 <!--
