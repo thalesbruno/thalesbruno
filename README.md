@@ -21,12 +21,11 @@
 
 
 ---
-
 <center>
   <table>
     <tr>
-        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesbruno&hide=html&layout=compact&show_icons=true&theme=gruvbox" /></td>
-        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=thalesbruno&show_icons=true&theme=gruvbox" /></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesbruno&exclude_repo=ds-micro-tutorials&hide=html&layout=compact&show_icons=true&theme=radical" /></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=thalesbruno&show_icons=true&theme=radical" /></td>
     </tr>   
   </table>
 </center>  
@@ -37,7 +36,7 @@
 
 <h2 align='left'>#Github Points: :octocat:🏆️</h2>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=thalesbruno&theme=onedark&margin-w=7&hide_border=true" alt="thalesbruno points"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=thalesbruno&theme=radical&margin-w=7&hide_border=true" alt="thalesbruno points"/>
 </p>
 
 
