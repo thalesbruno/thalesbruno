@@ -25,7 +25,7 @@
 <center>
   <table>
     <tr>
-        <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesbruno&hide=html&layout=compact&show_icons=true&theme=gruvbox" /></td>
+        
         <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=thalesbruno&show_icons=true&theme=gruvbox" /></td>
     </tr>   
   </table>
