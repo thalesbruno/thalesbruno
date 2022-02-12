@@ -1,11 +1,5 @@
 ## Hi there 👋, I'm [Thales Bruno](https://thalesbruno.github.io) from Salvador, Brazil 🇧🇷 
 
-<h3>My badges</h3>
-<p>
-  <img alt="Backend Challenge Badge Alura" width="148" src="https://github.com/thalesbruno/my_badges/blob/main/badge_aluraflix_1.png" />
-  <img alt="Backend Challenge Badge Alura" width="148" src="https://github.com/thalesbruno/my_badges/blob/main/badge_aluraflix_2.png" />
-</p>
-
 <h3>Stats</h3>
 <center>
   <table>
