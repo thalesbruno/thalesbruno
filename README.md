@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Thales Bruno](https://thalesbruno.github.io) from Salvador, Brazil 🇧🇷 
+## Hi there 👋
 
 <h3>Stats</h3>
 <center>
