@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<h3>Stats</h3>
 <center>
   <table>
     <tr>
